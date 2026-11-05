@@ -1,0 +1,18 @@
+Python Data types:
+------------------
+<class,int>
+<class,float>
+<class,str>
+<class,bool>
+<class,complex>
+----------------
+<class,list>
+<class,tuple>
+<class,set>
+<class,dict>
+----------------
+<class,bytes>
+<class,bytearray>
+<class,frozenset>
+<class,range>
+<class,noneType>
