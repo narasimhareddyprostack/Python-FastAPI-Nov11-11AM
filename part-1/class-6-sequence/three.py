@@ -1,0 +1,2 @@
+numbers=range()
+print(numbers)
