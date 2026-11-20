@@ -1,0 +1,5 @@
+print()
+print(list())
+print(list(map()))
+print(list(map(fun,seq)))
+print(list(map(lambda num:num*num,[1,2,3,4])))
